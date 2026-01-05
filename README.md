@@ -26,7 +26,7 @@ D:\7Projects\fighting_fit
 
 ---
 
-## 🗄 Tableau Visualizations
+## 🗄 Tableau Dashboard
 
 👉 https://public.tableau.com/app/profile/damian.rusek/viz/Fighting_Fit/FightingFit-WhatReallyDrivesUFCFightOutcomes?publish=yes
 
