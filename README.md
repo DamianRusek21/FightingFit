@@ -26,20 +26,10 @@ D:\7Projects\fighting_fit
 
 ---
 
-## 🗄 Tableau Visualizations
-I kept each sheet **separate for clarity**, rather than combining into a single dashboard:
+## 🗄 Tableau Dashboard
 
-1. **Height & Reach Advantage vs Win Rate**  
-👉 https://public.tableau.com/app/profile/damian.rusek/viz/FightingFit1/Sheet1
+👉 https://public.tableau.com/app/profile/damian.rusek/viz/Fighting_Fit/FightingFit-WhatReallyDrivesUFCFightOutcomes?publish=yes
 
-2. **Betting Odds vs Actual Outcomes**  
-👉 https://public.tableau.com/app/profile/damian.rusek/viz/FightingFit2/Sheet2
-
-3. **Takedown Activity by Weight Class**  
-👉 https://public.tableau.com/app/profile/damian.rusek/viz/FightingFit3/Sheet3
-
-4. **Age Difference vs Win Rate**  
-👉 https://public.tableau.com/app/profile/damian.rusek/viz/FightingFit4/Sheet4
 
 ---
 
